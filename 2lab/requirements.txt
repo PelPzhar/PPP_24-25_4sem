@@ -1,0 +1,15 @@
+fastapi==0.95.1
+uvicorn==0.21.1
+sqlalchemy==1.4.47
+redis==4.5.4
+celery==5.2.7
+aiohttp==3.10.10
+beautifulsoup4==4.12.2
+networkx==3.1
+pygraphml==2.4.2
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.0
+alembic==1.10.2
+pydantic[email]==1.10.21
+pyvis==0.3.2
