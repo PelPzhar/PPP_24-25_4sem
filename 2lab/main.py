@@ -1,8 +1,8 @@
+from fastapi import FastAPI
+from app.api.auth import router as auth_router
+from app.api.parser import router as parser_router
 
-def main():
-    # Ваш код здесь
-    pass
+app = FastAPI()
 
-if __name__ == "__main__":
-    main()
-
+app.include_router(auth_router)
+app.include_router(parser_router)
