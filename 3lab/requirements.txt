@@ -1,0 +1,17 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+websockets==10.0
+redis==5.0.8
+sqlalchemy==1.4.23
+alembic==1.7.1
+pydantic==1.8.2
+requests==2.26.0
+beautifulsoup4==4.10.0
+networkx==2.6.3
+python-dotenv
+celery==5.2.7
+aiohttp
+
+# cd /Users/polinazharkova/Desktop/учеба/Практикум
+# source venv/bin/activate
+# pip install -r requirements.txt
