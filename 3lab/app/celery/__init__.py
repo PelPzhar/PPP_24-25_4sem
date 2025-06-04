@@ -1,15 +1,9 @@
 from celery import Celery
-import redislite
-
-redis_instance = redislite.Redis()
-socket_file = redis_instance.socket_file
-broker_url = f"redis+socket://{socket_file}"
-backend_url = f"redis+socket://{socket_file}"
 
 app = Celery(
     'tasks',
-    broker=broker_url,
-    backend=backend_url
+    broker='redis://localhost:6379/0',
+    backend='redis://localhost:6379/0'
 )
 
 app.conf.update(

@@ -11,7 +11,4 @@ networkx==2.6.3
 python-dotenv
 celery==5.2.7
 aiohttp
-
-# cd /Users/polinazharkova/Desktop/учеба/Практикум
-# source venv/bin/activate
-# pip install -r requirements.txt
+json

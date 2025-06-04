@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="directed">
+    <node id="https://en.wikipedia.org/wiki/Python_(programming_language)" />
+    <node id="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" />
+    <node id="https://af.wikipedia.org/wiki/Python_(programmeertaal)" />
+    <node id="https://als.wikipedia.org/wiki/Python_(Programmiersprache)" />
+    <node id="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86_(%D9%84%D8%BA%D8%A9_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)" />
+    <node id="https://foundation.wikimedia.org/wiki/Donor_privacy_policy" />
+    <node id="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Tax_deductibility&amp;basic=true&amp;language=en" />
+    <node id="https://foundation.wikimedia.org/wiki/Special:LandingCheck?landing_page=Donor_privacy_policy&amp;basic=true&amp;language=en" />
+    <node id="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Problems_donating&amp;basic=true&amp;language=en" />
+    <node id="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=af.wikipedia.org&amp;uselang=af" />
+    <node id="https://an.wikipedia.org/wiki/Python" />
+    <node id="https://as.wikipedia.org/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%A5%E0%A6%A8" />
+    <node id="https://ast.wikipedia.org/wiki/Python" />
+    <node id="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ar.wikipedia.org&amp;uselang=ar" />
+    <node id="https://wikimediafoundation.org/" />
+    <node id="https://wikimediafoundation.org/about/contact/" />
+    <node id="https://wikimediafoundation.org/news/" />
+    <node id="https://diff.wikimedia.org/" />
+    <node id="https://diff.wikimedia.org/calendar" />
+    <node id="https://donate.wikimedia.org/?uselang=en&amp;wmf_medium=donatewiki_page&amp;wmf_campaign=donate_now_btn&amp;wmf_source=Tax_deductibility" />
+    <node id="https://en.wikipedia.org/wiki/501(c)_organization#501(c)(3)" />
+    <node id="https://www.FloridaConsumerHelp.com" />
+    <node id="https://www.state.nj.us/lps/ca/charfrm.htm" />
+    <node id="https://donate.wikimedia.org/?uselang=en&amp;wmf_medium=donatewiki_page&amp;wmf_campaign=donate_now_btn&amp;wmf_source=Problems_donating" />
+    <node id="https://www.paypal.com/cgi-bin/helpscr?cmd=_help&amp;t=escalateTab" />
+    <node id="https://en.wikipedia.org/wiki/Zendesk" />
+    <node id="https://www.zendesk.com/company/customers-partners/privacy-policy/" />
+    <node id="https://foundation.wikimedia.org/wiki/Donor_privacy_policy/af" />
+    <node id="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Tax_deductibility&amp;basic=true&amp;language=af" />
+    <node id="https://foundation.wikimedia.org/wiki/Special:LandingCheck?landing_page=Donor_privacy_policy&amp;basic=true&amp;language=af" />
+    <node id="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Problems_donating&amp;basic=true&amp;language=af" />
+    <edge source="https://en.wikipedia.org/wiki/Python_(programming_language)" target="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" />
+    <edge source="https://en.wikipedia.org/wiki/Python_(programming_language)" target="https://af.wikipedia.org/wiki/Python_(programmeertaal)" />
+    <edge source="https://en.wikipedia.org/wiki/Python_(programming_language)" target="https://als.wikipedia.org/wiki/Python_(Programmiersprache)" />
+    <edge source="https://en.wikipedia.org/wiki/Python_(programming_language)" target="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86_(%D9%84%D8%BA%D8%A9_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)" />
+    <edge source="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" target="https://foundation.wikimedia.org/wiki/Donor_privacy_policy" />
+    <edge source="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" target="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Tax_deductibility&amp;basic=true&amp;language=en" />
+    <edge source="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" target="https://foundation.wikimedia.org/wiki/Special:LandingCheck?landing_page=Donor_privacy_policy&amp;basic=true&amp;language=en" />
+    <edge source="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" target="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Problems_donating&amp;basic=true&amp;language=en" />
+    <edge source="https://af.wikipedia.org/wiki/Python_(programmeertaal)" target="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=af.wikipedia.org&amp;uselang=af" />
+    <edge source="https://af.wikipedia.org/wiki/Python_(programmeertaal)" target="https://als.wikipedia.org/wiki/Python_(Programmiersprache)" />
+    <edge source="https://af.wikipedia.org/wiki/Python_(programmeertaal)" target="https://an.wikipedia.org/wiki/Python" />
+    <edge source="https://af.wikipedia.org/wiki/Python_(programmeertaal)" target="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86_(%D9%84%D8%BA%D8%A9_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)" />
+    <edge source="https://als.wikipedia.org/wiki/Python_(Programmiersprache)" target="https://af.wikipedia.org/wiki/Python_(programmeertaal)" />
+    <edge source="https://als.wikipedia.org/wiki/Python_(Programmiersprache)" target="https://an.wikipedia.org/wiki/Python" />
+    <edge source="https://als.wikipedia.org/wiki/Python_(Programmiersprache)" target="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86_(%D9%84%D8%BA%D8%A9_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)" />
+    <edge source="https://als.wikipedia.org/wiki/Python_(Programmiersprache)" target="https://as.wikipedia.org/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%A5%E0%A6%A8" />
+    <edge source="https://als.wikipedia.org/wiki/Python_(Programmiersprache)" target="https://ast.wikipedia.org/wiki/Python" />
+    <edge source="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86_(%D9%84%D8%BA%D8%A9_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)" target="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ar.wikipedia.org&amp;uselang=ar" />
+    <edge source="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86_(%D9%84%D8%BA%D8%A9_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)" target="https://af.wikipedia.org/wiki/Python_(programmeertaal)" />
+    <edge source="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86_(%D9%84%D8%BA%D8%A9_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)" target="https://als.wikipedia.org/wiki/Python_(Programmiersprache)" />
+    <edge source="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86_(%D9%84%D8%BA%D8%A9_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)" target="https://an.wikipedia.org/wiki/Python" />
+    <edge source="https://foundation.wikimedia.org/wiki/Donor_privacy_policy" target="https://wikimediafoundation.org/" />
+    <edge source="https://foundation.wikimedia.org/wiki/Donor_privacy_policy" target="https://wikimediafoundation.org/about/contact/" />
+    <edge source="https://foundation.wikimedia.org/wiki/Donor_privacy_policy" target="https://wikimediafoundation.org/news/" />
+    <edge source="https://foundation.wikimedia.org/wiki/Donor_privacy_policy" target="https://diff.wikimedia.org/" />
+    <edge source="https://foundation.wikimedia.org/wiki/Donor_privacy_policy" target="https://diff.wikimedia.org/calendar" />
+    <edge source="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Tax_deductibility&amp;basic=true&amp;language=en" target="https://wikimediafoundation.org/" />
+    <edge source="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Tax_deductibility&amp;basic=true&amp;language=en" target="https://donate.wikimedia.org/?uselang=en&amp;wmf_medium=donatewiki_page&amp;wmf_campaign=donate_now_btn&amp;wmf_source=Tax_deductibility" />
+    <edge source="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Tax_deductibility&amp;basic=true&amp;language=en" target="https://en.wikipedia.org/wiki/501(c)_organization#501(c)(3)" />
+    <edge source="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Tax_deductibility&amp;basic=true&amp;language=en" target="https://www.FloridaConsumerHelp.com" />
+    <edge source="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Tax_deductibility&amp;basic=true&amp;language=en" target="https://www.state.nj.us/lps/ca/charfrm.htm" />
+    <edge source="https://foundation.wikimedia.org/wiki/Special:LandingCheck?landing_page=Donor_privacy_policy&amp;basic=true&amp;language=en" target="https://wikimediafoundation.org/" />
+    <edge source="https://foundation.wikimedia.org/wiki/Special:LandingCheck?landing_page=Donor_privacy_policy&amp;basic=true&amp;language=en" target="https://wikimediafoundation.org/about/contact/" />
+    <edge source="https://foundation.wikimedia.org/wiki/Special:LandingCheck?landing_page=Donor_privacy_policy&amp;basic=true&amp;language=en" target="https://wikimediafoundation.org/news/" />
+    <edge source="https://foundation.wikimedia.org/wiki/Special:LandingCheck?landing_page=Donor_privacy_policy&amp;basic=true&amp;language=en" target="https://diff.wikimedia.org/" />
+    <edge source="https://foundation.wikimedia.org/wiki/Special:LandingCheck?landing_page=Donor_privacy_policy&amp;basic=true&amp;language=en" target="https://diff.wikimedia.org/calendar" />
+    <edge source="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Problems_donating&amp;basic=true&amp;language=en" target="https://wikimediafoundation.org/" />
+    <edge source="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Problems_donating&amp;basic=true&amp;language=en" target="https://donate.wikimedia.org/?uselang=en&amp;wmf_medium=donatewiki_page&amp;wmf_campaign=donate_now_btn&amp;wmf_source=Problems_donating" />
+    <edge source="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Problems_donating&amp;basic=true&amp;language=en" target="https://www.paypal.com/cgi-bin/helpscr?cmd=_help&amp;t=escalateTab" />
+    <edge source="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Problems_donating&amp;basic=true&amp;language=en" target="https://en.wikipedia.org/wiki/Zendesk" />
+    <edge source="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Problems_donating&amp;basic=true&amp;language=en" target="https://www.zendesk.com/company/customers-partners/privacy-policy/" />
+    <edge source="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=af.wikipedia.org&amp;uselang=af" target="https://foundation.wikimedia.org/wiki/Donor_privacy_policy/af" />
+    <edge source="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=af.wikipedia.org&amp;uselang=af" target="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Tax_deductibility&amp;basic=true&amp;language=af" />
+    <edge source="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=af.wikipedia.org&amp;uselang=af" target="https://foundation.wikimedia.org/wiki/Special:LandingCheck?landing_page=Donor_privacy_policy&amp;basic=true&amp;language=af" />
+    <edge source="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=af.wikipedia.org&amp;uselang=af" target="https://donate.wikimedia.org/wiki/Special:LandingCheck?landing_page=Problems_donating&amp;basic=true&amp;language=af" />
+  </graph>
+</graphml>
